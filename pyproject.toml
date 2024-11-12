@@ -7,7 +7,7 @@ license = "MIT"
 readme = "README.md"
 homepage = "https://github.com/oty-v/v2t_voice_activation"
 repository = "https://github.com/oty-v/v2t_voice_activation"
-documentation = "https://github.com/oty-v/v2t_voice_activation"
+documentation = "https://github.com/oty-v/v2t_voice_activation/blob/main/docs/index.md"
 
 [tool.poetry.dependencies]
 python = "^3.8"
