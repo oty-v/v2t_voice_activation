@@ -87,7 +87,7 @@ auto_transcription.start()
 # To stop listening and transcription
 auto_transcription.end()
 
-# Auto Transcription Library
+```
 
 This project provides an automatic transcription solution that listens for a keyword, records audio, transcribes it, and saves the transcription result. It uses the Groq API for transcription and includes options to customize the recording and transcription process.
 
