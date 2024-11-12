@@ -1,0 +1,29 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# Pytest
+.cache/
+
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Configuration files for specific environments
+*.env
+*.env.*
