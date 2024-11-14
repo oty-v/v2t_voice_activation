@@ -27,3 +27,10 @@ dist/
 # Configuration files for specific environments
 *.env
 *.env.*
+
+*.ppn
+*.pv
+*.m4a
+*.wav
+*.txt
+test.py

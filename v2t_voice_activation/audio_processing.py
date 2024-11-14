@@ -30,11 +30,9 @@ class AudioProcessor:
                 frames.append(data)
 
                 rms = np.sqrt(np.mean(audio_data**2))
-                print(f"Volume level: {rms}")
 
                 if rms < self.silence_threshold:
                     silence_counter += 1
-                    print(f"Silence detected. Silence counter: {silence_counter}")
                 else:
                     silence_counter = 0  # Reset counter if sound is above threshold
 
