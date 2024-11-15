@@ -32,5 +32,5 @@ dist/
 *.pv
 *.m4a
 *.wav
-*.txt
+test_result.txt
 test.py
